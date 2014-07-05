@@ -3,7 +3,8 @@
 
 * **Activity**
    
-The user interface -- basically it's what's there on your screen
+This is what you see, the UI and code behind it  
+(basically it's what's on your screen)
  
 
 * **Service**
