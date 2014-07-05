@@ -3,18 +3,18 @@
 
 * **Activity**
    
-This is what you see, the UI and code behind it  
+  This is what you see, the UI and code behind it  
 (basically it's what's on your screen)
  
 
 * **Service**
    
-This is a background process without a UI (like a music player)
+  This is a background process without a UI (like a music player)
 
 
 * **Content Manager**
    
-This allows applications to share data (like flappy bird high scores)
+  This allows applications to share data (like flappy bird high scores)
 
 
 * **Broadcast Receiver**
